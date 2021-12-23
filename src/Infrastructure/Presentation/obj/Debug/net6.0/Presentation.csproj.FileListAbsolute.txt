@@ -1,0 +1,17 @@
+C:\Users\Administrador\Desktop\BankApi\src\Infrastructure\Presentation\bin\Debug\net6.0\Presentation.deps.json
+C:\Users\Administrador\Desktop\BankApi\src\Infrastructure\Presentation\bin\Debug\net6.0\Presentation.dll
+C:\Users\Administrador\Desktop\BankApi\src\Infrastructure\Presentation\bin\Debug\net6.0\ref\Presentation.dll
+C:\Users\Administrador\Desktop\BankApi\src\Infrastructure\Presentation\bin\Debug\net6.0\Presentation.pdb
+C:\Users\Administrador\Desktop\BankApi\src\Infrastructure\Presentation\bin\Debug\net6.0\Contracts.dll
+C:\Users\Administrador\Desktop\BankApi\src\Infrastructure\Presentation\bin\Debug\net6.0\Service.Abstractions.dll
+C:\Users\Administrador\Desktop\BankApi\src\Infrastructure\Presentation\bin\Debug\net6.0\Service.Abstractions.pdb
+C:\Users\Administrador\Desktop\BankApi\src\Infrastructure\Presentation\bin\Debug\net6.0\Contracts.pdb
+C:\Users\Administrador\Desktop\BankApi\src\Infrastructure\Presentation\obj\Debug\net6.0\Presentation.csproj.AssemblyReference.cache
+C:\Users\Administrador\Desktop\BankApi\src\Infrastructure\Presentation\obj\Debug\net6.0\Presentation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrador\Desktop\BankApi\src\Infrastructure\Presentation\obj\Debug\net6.0\Presentation.AssemblyInfoInputs.cache
+C:\Users\Administrador\Desktop\BankApi\src\Infrastructure\Presentation\obj\Debug\net6.0\Presentation.AssemblyInfo.cs
+C:\Users\Administrador\Desktop\BankApi\src\Infrastructure\Presentation\obj\Debug\net6.0\Presentation.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Desktop\BankApi\src\Infrastructure\Presentation\obj\Debug\net6.0\Presentation.csproj.CopyComplete
+C:\Users\Administrador\Desktop\BankApi\src\Infrastructure\Presentation\obj\Debug\net6.0\Presentation.dll
+C:\Users\Administrador\Desktop\BankApi\src\Infrastructure\Presentation\obj\Debug\net6.0\ref\Presentation.dll
+C:\Users\Administrador\Desktop\BankApi\src\Infrastructure\Presentation\obj\Debug\net6.0\Presentation.pdb
