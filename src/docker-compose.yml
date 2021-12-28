@@ -1,0 +1,27 @@
+version: '3.4'
+
+services:
+  api:
+    image: ${DOCKER_REGISTRY-}api
+    container_name: bank_api
+    build:
+      context: .
+      dockerfile: Api/Dockerfile
+    ports:
+      - 5000:80
+      - 5001:443
+    depends_on:
+      - bank.db
+
+   
+  bank.db:
+    image: postgres:13.2
+    container_name: bank_db
+    environment:
+      - POSTGRES_DB=bankdb
+      - POSTGRES_USER=postgres
+      - POSTGRES_PASSWORD=postgres
+    volumes:
+      - ./db:/var/lib/postgresql/data
+    ports:
+      - 5432:5432
